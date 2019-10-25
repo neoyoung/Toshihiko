@@ -29,7 +29,7 @@
     "istanbul": "1.0.0-alpha.1",
     "jsxhint": "0.15.1",
     "mocha": "5.1.0",
-    "mockjs": "^1.0.1-beta3",
+    "mockjs": "1.0.1-beta3",
     "mysql": "^2.15.0",
     "mysql2": "^1.5.1",
     "should": "13.2.2",
